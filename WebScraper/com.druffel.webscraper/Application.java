@@ -16,8 +16,7 @@ import org.jsoup.select.Elements;
 
 /*
  * Project: WebScraper Package: File: Application.java Created: 07.09.2018
- * Author: Ji-Soo (Sophos Technology GmbH) Copyright: (C) 2018 Sophos Technology
- * GmbH
+ * Author: Ji-Soo 
  */
 
 public class Application
